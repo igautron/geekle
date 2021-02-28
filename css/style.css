@@ -1,0 +1,185 @@
+body {
+    margin: 0;
+}
+
+header {
+    height: 102px;
+    margin: 0;
+}
+
+.block_header {
+    position: absolute;
+    width: 1920px;
+    height: 100px;
+    left: 0px;
+    top: 0px;
+    background: #171716;
+    border: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+.left {
+    display: list-item;
+}
+
+.img1 {
+    position: absolute;
+    width: 28.16px;
+    height: 35.24px;
+    top: 20.69px;
+    left: 380px;
+}
+
+.img2 {
+    position: absolute;
+    width: 38.57px;
+    height: 38.63px;
+    top: 19px;
+    left: 400.68px;
+}
+
+.img4 {
+    position: absolute;
+    Width: 9.24px;
+    Height: 9.24px;
+    Top: 27.62px;
+    Left: 412.68px;
+}
+
+.img3 {
+    position: absolute;
+    Width: 28.16px;
+    Height: 35.24px;
+    Top: 20.69px;
+    Left: 431.84px;
+}
+
+.img5 {
+    position: absolute;
+    Width: 7.43px;
+    Height: 9.25px;
+    Top: 67.21px;
+    Left: 381.41px;
+}
+
+.img6 {
+    position: absolute;
+    Width: 9.79px;
+    Height: 12.45px;
+    Top: 68.55px;
+    Left: 394.17px;
+}
+
+
+.img7 {
+    position: absolute;
+    Width: 8.28pX;
+    Height: 8.85px;
+    Top: 68.55px;
+    Left: 404.51px;
+}
+
+
+.img8 {
+    position: absolute;
+    Width: 8.28px;
+    Height: 8.85px;
+    Top: 68.55px;
+    Left: 413.86px;
+}
+
+
+.img9 {
+    position: absolute;
+    Width: 8.7px;
+    Height: 12.06px;
+    Top: 65.15px;
+    Left: 423.65px;
+}
+
+
+.img10 {
+    position: absolute;
+    Width: 2.78px;
+    Height: 12.06px;
+    Top: 65.15px;
+    Left: 433.27px;
+}
+
+.img11 {
+    position: absolute;
+    Width: 8.28px;
+    Height: 8.85px;
+    Top: 68.55px;
+    Left: 437.51px;
+}
+
+.img12 {
+    position: absolute;
+    width: 7.43px;
+    height: 9.25px;
+    top: 67.21px;
+    left: 451.19px;
+}
+
+#agenda {
+    position: absolute;
+    width: 48px;
+    height: 26px;
+    left: 1281px;
+    top: 32px;
+    font-family: Bison;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 130%;
+    color: #FFFFFF;
+    list-style: none;
+    text-decoration: none;
+    list-style: none;
+}
+
+#tickets {
+    position: absolute;
+    width: 49px;
+    height: 26px;
+    left: 1393px;
+    top: 32px;
+    font-family: Bison;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 130%;
+    color: #FFFFFF;
+    text-decoration: none;
+    list-style: none;
+}
+
+
+
+#team {
+    position: absolute;
+    width: 34px;
+    height: 26px;
+    left: 1506px;
+    top: 32px;
+    font-family: Bison;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 130%;
+    color: #FFFFFF;
+    text-decoration: none;
+    list-style: none;
+    color: #FFFFFF;
+}
+
+a {
+    text-decoration: none;
+    color: #FFFFFF;
+}
+
+.worldwide {
+    background: url(./img/frame.png);
+}
+
+
